@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="piso-cristal" size="15.000000 10.671429" />
+    <ImageTarget name="piso-ladrillo" size="15.000000 11.769231" />
+    <ImageTarget name="piso-marmol" size="15.000000 15.000000" />
+    <ImageTarget name="piso-cemento" size="15.000000 9.853847" />
+    <ImageTarget name="piso-piedra" size="15.000000 10.235294" />
+    <ImageTarget name="piso-madera" size="15.000000 18.743999" />
+  </Tracking>
+</QCARConfig>

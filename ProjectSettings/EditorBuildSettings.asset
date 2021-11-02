@@ -9,9 +9,12 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenuScene.unity
     guid: 7c0b2c0c9ce24024c8b64b8551f73da7
   - enabled: 1
-    path: Assets/Scenes/CrudSpacesScene.unity
-    guid: 8cd6f5e85a40d904e85fb7bcd27d6340
-  - enabled: 1
-    path: Assets/Scenes/SpaceScene.unity
+    path: Assets/Scenes/CameraScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/SpacesMenuScene.unity
+    guid: 4bcb77ee514ed1748a9ee61bb03ff5e7
+  - enabled: 1
+    path: Assets/Scenes/RegisterUpdateScene.unity
+    guid: 47b49a384a5bd8c4d9c64180beacec86
   m_configObjects: {}

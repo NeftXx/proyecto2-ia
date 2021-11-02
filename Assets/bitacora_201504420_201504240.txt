@@ -1,0 +1,17 @@
+[INFO] 11/1/2021 1:32:04 PM: Espacio eliminado
+[INFO] 11/2/2021 1:05:43 AM: Espacio registrado!
+[INFO] 11/2/2021 1:12:18 AM: Espacio eliminado!
+[ERROR] 11/2/2021 1:12:40 AM: Ya existe un espacio con el mismo tipo de piso!
+[INFO] 11/2/2021 1:12:46 AM: Espacio registrado!
+[INFO] 11/2/2021 1:19:15 AM: Espacio actualizado!
+[ERROR] 11/2/2021 1:21:49 AM: El nombre del espacio no puede estar vacío!
+[ERROR] 11/2/2021 1:22:51 AM: Ya existe un espacio con el mismo tipo de piso!
+[ERROR] 11/2/2021 1:23:45 AM: Posiciones incorrectas! Verifique que las posiciones no esten repetidas.
+[INFO] 11/2/2021 1:24:27 AM: Espacio registrado!
+[INFO] 11/2/2021 1:25:43 AM: Espacio eliminado!
+[INFO] 11/2/2021 1:27:08 AM: Espacio actualizado!
+[INFO] 11/2/2021 1:27:27 AM: Espacio registrado!
+[INFO] 11/2/2021 1:27:41 AM: Espacio registrado!
+[INFO] 11/2/2021 1:27:59 AM: Espacio registrado!
+[ERROR] 11/2/2021 1:28:32 AM: No puedes registrar más de 6 espacios
+[ERROR] 11/2/2021 1:37:16 AM: No puedes registrar más de 6 espacios
